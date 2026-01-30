@@ -1,6 +1,6 @@
 # Raspberry Pi 1B 無線 Tor Tunnel 建置文件
 
-### 這是 AI 生成的紀錄![IMG_20260129_002928](https://github.com/user-attachments/assets/fe17e1f5-0eb6-47d7-9e5e-6ead3b23a1c3)
+### 這是 AI 生成的紀錄
 
 我在製作過程中交替使用 Perplexity、Gemini、Claude 三個 AI 的多個對話，中間處理了很多坑跟 BUG ，最後再叫 AI 幫我整理出正確的操作紀錄。
 我有大致看過，除了漏掉修正驅動之外沒啥大問題 (阿這就是最大的坑阿...)。
