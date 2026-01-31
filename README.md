@@ -1,5 +1,5 @@
 # Raspberry Pi 1B 無線 Tor Tunnel 建置文件
-
+Jan. 2026
 ### 這是 AI 生成的紀錄
 
 我在製作過程中交替使用 Perplexity、Gemini、Claude 三個 AI 的多個對話，中間處理了很多坑跟 BUG ，最後再叫 AI 幫我整理出正確的操作紀錄。
